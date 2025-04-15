@@ -1,0 +1,29 @@
+<bookstore>
+    <book>
+        <title>The Striker</title>
+        
+        <author>
+            <name>Ana Huang</name>
+            <email> hello@anahuang.com. </email>
+            <famousBook>Twisted Love</famousBook>
+        </author>
+        
+        <price>$ 15.99</price>
+        
+        <category>Romance</category>
+        
+        <pages>380</pages>
+        
+        <description>
+            a steamy sports romance novel that follows Asher Donovan, a renowned Premier League footballer, and Scarlett DuBois, a former prima ballerina and trainer, as they navigate a complicated and passionate relationship.
+        </description>
+        
+        <publish>
+            <publisherName>Belles & Books Publishing</publisherName>
+            <year>2024</year>
+            <ISBN>978-1-23456-789-0</ISBN>
+        </publish>
+        
+        <availability>In Stock</availability>
+    </book>
+</bookstore>
