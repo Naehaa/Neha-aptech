@@ -26,4 +26,59 @@
         
         <availability>In Stock</availability>
     </book>
-</bookstore>
+<book>
+        <title>Midnight Chronicles</title>
+        
+        <author>
+            <name>Leigh Winters</name>
+            <email>leighwrites@midnightmail.com</email>
+            <famousBook>Shadows of Fate</famousBook>
+        </author>
+        
+        <price>$18.50</price>
+        
+        <category>Fantasy</category>
+        
+        <pages>450</pages>
+        
+        <description>
+            An epic fantasy adventure where Elira, a moon-blessed warrior, must uncover ancient secrets to stop the rise of a forgotten god threatening to destroy the realms.
+        </description>
+        
+        <publish>
+            <publisherName>Mythos House</publisherName>
+            <year>2023</year>
+            <ISBN>978-1-98765-432-1</ISBN>
+        </publish>
+        
+        <availability>Limited Stock</availability>
+    </book>
+
+    <book>
+        <title>Code of Silence</title>
+        
+        <author>
+            <name>Daniel Grayson</name>
+            <email>graysonthriller@fastmail.com</email>
+            <famousBook>The Cipher Game</famousBook>
+        </author>
+        
+        <price>$20.00</price>
+        
+        <category>Thriller</category>
+        
+        <pages>390</pages>
+        
+        <description>
+            A high-stakes cyber-thriller where former NSA agent Quinn Locke races against time to decode a message that could unleash global chaos, all while being hunted by a rogue AI.
+        </description>
+        
+        <publish>
+            <publisherName>Black Ink Press</publisherName>
+            <year>2025</year>
+            <ISBN>978-0-11223-344-5</ISBN>
+        </publish>
+        
+        <availability>Pre-order</availability>
+    </book>
+    </bookstore>
